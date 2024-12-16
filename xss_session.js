@@ -1,1 +1,1 @@
-alert(JSON.stringify(sessionStorage));
+alert(document.cookie);
