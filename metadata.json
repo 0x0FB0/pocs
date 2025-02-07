@@ -1,0 +1,15 @@
+{
+  "lpUnifiedWindowConfig": {
+    "env": "production",
+    "accountId": "123123"
+  },
+  "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZXhhbXBsZSJ9.s5w6UdhG",
+  "name": "Sample Form",
+  "formId": "12345",
+  "invitationId": "inv-98765",
+  "seqId": "seq-001",
+  "conversationId": "conv-123",
+  "dialogId": "dlg-456",
+  "isSubmitted": false,
+  "expired": false
+}
