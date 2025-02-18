@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>XSS Test</title>
+    <script>
+        window.onload = function() {
+            alert('XSS at ' + document.domain + '\nAvailable cookies: ' + document.cookie);
+        };
+    </script>
+</head>
+<body>
+    <h1>XSS Test Page</h1>
+</body>
+</html>
